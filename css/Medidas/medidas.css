@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+font-size: 16px;
+}
+
+div.primeiro_bloco{
+    font-size: 1em;
+    background-color: rgb(218, 143, 31);
+}
+.segundo_do_primeiro{
+    font-size: 1.5em;
+    background-color: rgb(140, 202, 26);
+}
+section#segundo{
+font-size: 2em;
+background-color: rgb(118, 118, 206);
+}
+.segundo_do_segundo{
+    font-size: 2.5em;
+   background-color:rgb(228, 26, 150);
+}
+
+section#terceiro{
+    font-size: 3em;
+   background-color: rgb(10, 10, 250);
+}
+.terceiro_do_terceiro{
+    font-size: 3.5;
+    background-color: rgb(12, 139, 40);
+}
